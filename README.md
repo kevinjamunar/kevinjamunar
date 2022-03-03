@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kevinjamunar
+- 👋 Hi, I’m @kevinjamunar and I love JavaScript/TypeScript. 
 
 <!---
 kevinjamunar/kevinjamunar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
